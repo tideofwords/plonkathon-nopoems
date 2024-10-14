@@ -51,6 +51,8 @@ Then type `conda activate plonkathon` to activate your new environment.  You sho
 
 If you want to see all your environments, you can run `conda env list`.  If you started from a fresh conda install, you should see `base` and `plonkathon`, and it should show that `plonkathon` is active.
 
+To learn more about Python virtual environments, take a look at `https://csguide.cs.princeton.edu/software/virtualenv`.
+
 ### Required: install dependencies
 
 You'll use `pip`, the Python package installer, to install the dependencies.  Make sure to activate the `plonkathon` virtual environment, then run
